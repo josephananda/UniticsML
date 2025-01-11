@@ -24,8 +24,8 @@ Selected Attributes:
 1) Jurusan Sekolah (School Major): The high school major of the students, "IPA" for Science major and "IPS" for Social major
 2) Jurusan Diterima (Accepted Major)
 4) PTN Diterima (Accepted University)
-5) Mat Sem 1, Mat Sem 2, Mat Sem 3, Mat Sem 4, Mat Sem 5: (1st up to 5th semester Mathematics subject score)
-6) Ing Sem 1, Ing Sem 2, Ing Sem 3, Ing Sem 4, Ing Sem 5: (1st up to 5th semester English subject score)
+5) Mat Sem 1, Mat Sem 2, Mat Sem 3, Mat Sem 4, Mat Sem 5 (1st up to 5th semester Mathematics subject score)
+6) Ing Sem 1, Ing Sem 2, Ing Sem 3, Ing Sem 4, Ing Sem 5 (1st up to 5th semester English subject score)
 7) Ind Sem 1, Ind Sem 2, Ind Sem 3, Ind Sem 4, Ind Sem 5 (1st up to 5th semester Indonesian subject score)
 8) Fis Sem 1, Fis Sem 2, Fis Sem 3, Fis Sem 4, Fis Sem 5 (1st up to 5th semester Physics subject score)
 9) Kim Sem 1, Kim Sem 2, Kim Sem 3, Kim Sem 4, Kim Sem 5 (1st up to 5th semester Chemistry subject score)
