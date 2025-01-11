@@ -61,6 +61,8 @@ Non-Selected Attributes:
 
 ## Result of this project...
 
+Public data of SNMPTN 2016 and 2017 from the HaloKampus website were gathered to form a dataset consisting of student score reports accepted in 9 Indonesian state universities. Score reports from 6 subjects were chosen to train the Science Multi-Layer Perceptron (MLP) model, and 7 subjects were chosen for the Social MLP model. After several tuning processes, the trained MLP model could achieve 94,57% accuracy for the science major model to classify 174 college majors and 89,79% accuracy for the social major model to classify 70 college majors.
+
 ## What should I improve next...
 1) Try to collect more data from various sources
 2) More in-depth observation on the dataset, since there's a lot of outlier.
